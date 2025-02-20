@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on a Algo-Trading strategy <br>If you're looking to collaborate or give me some advices,<br>You can contact me via my github
+I'm currently working on a Algo-Trading strategy <br>If you're looking to collaborate or give me some advices,<br>You can contact me via my email adress : Soulaimaneelmennaoui@gmail.com
+
 
 
 # 💻 Tech Stack:
